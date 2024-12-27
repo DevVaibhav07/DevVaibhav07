@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DevVaibhav07
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Back End
-- 💞️ I’m looking to collaborate on Full Stack.
+- 👀 I’m working on GenAI to make tools which will automate Security Scanning, Secure Code Review, etc  
 - 📫 How to reach me: Through whatsapp: 9970252631
 - email: dev.vaibhavk@gmail.com
 - Website: vaibhavkubade.in
